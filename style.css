@@ -1,0 +1,7 @@
+.csaSorter { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 8px 0 16px; }
+.csaGroup { display: inline-flex; border: 1px solid #ccc; border-radius: 6px; overflow: hidden; }
+.csaGroup button { border: 0; background: #fff; color: #333; padding: 6px 14px; font-size: 13px; cursor: pointer; }
+.csaGroup button + button { border-left: 1px solid #ccc; }
+.csaGroup button:hover { background: #f2f2f2; }
+.csaGroup button.isActive { background: #333; color: #fff; }
+.csaCount { color: #666; font-size: 13px; }
