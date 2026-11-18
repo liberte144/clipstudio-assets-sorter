@@ -45,7 +45,9 @@
   const count = document.createElement('span');
   count.className = 'csaCount';
   bar.append(group(TABS, 'tab'), group(SORTS, 'sort'), count);
-  list.before(bar);
+  // 「原文を見る」の後ろに置くと、カード一覧と左端がそろう
+  const anchor = document.querySelector('.translationButtonContainer');
+  anchor ? anchor.after(bar) : list.before(bar);
 
   function render() {
     const sorted = [...cards].sort((a, b) => {

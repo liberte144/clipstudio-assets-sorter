@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "マイリスト絞り込み（CLIP STUDIO ASSETS 非公式）",
-  "version": "1.0",
+  "version": "1.1",
   "description": "非公式の個人用ツール。CLIP STUDIO ASSETS のマイリストを CLIPPY / GOLD / 無料 で切り替え、価格順に並べ替える",
   "content_scripts": [
     {
