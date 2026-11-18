@@ -5,7 +5,8 @@
 > 使って起きたことの責任は持てないので、自己責任でお使いください。
 
 CLIP STUDIO ASSETS の「マイリスト」ページに、こんなボタンを足す Chrome 拡張機能です。
-<img width="551" height="206" alt="使用例" src="https://github.com/user-attachments/assets/27364542-d8af-4e78-8145-02ba7a551a04" />
+<img width="495" height="212" alt="使用例" src="https://github.com/user-attachments/assets/c9637f40-551c-4e31-b679-ada3f1d31e30" />
+
 - **すべて ／ CLIPPY ／ GOLD ／ 無料** の切り替え
 - **標準 ／ 安い順 ／ 高い順** の並べ替え（CLIPPY タブなら CP、GOLD タブなら G の価格で並べます）
 
