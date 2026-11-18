@@ -1,3 +1,4 @@
+<img width="551" height="206" alt="使用例" src="https://github.com/user-attachments/assets/27364542-d8af-4e78-8145-02ba7a551a04" />
 # マイリスト絞り込み（CLIP STUDIO ASSETS 非公式）
 
 > **これは個人が作った非公式のツールです。** 株式会社セルシス（CLIP STUDIO）とは関係ありません。
